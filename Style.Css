@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    color: aquamarine;
+    background-color: crimson;
+    scroll-behavior: smooth;
+    }
+mouse:hover{
+    background-color: darkviolet;
+    }
